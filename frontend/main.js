@@ -3,7 +3,6 @@ window.addEventListener('DOMContentLoaded', (Event) =>{
 
 })
 
-
 const functionApi = '';
 
 const getVisitCount - (){
